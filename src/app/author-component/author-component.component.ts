@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AuthorComponentComponent implements OnInit {
   authorName = "Alejandro Miranda";
-  link = "";
+  link = "https://github.com/alemiranda1105/tutorial-angular-daw2";
 
   constructor() { }
 
